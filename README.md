@@ -7,3 +7,6 @@ This web application is created using create-react-app
 3. I showed a loader while fetching the data. I use a state. before fetching state will be true and after successfully done the fetching the state will be false. then I set a condition if state is true then show a loader otherwise not.
 
 4. I styled the application using custom CSS and styled-component.
+
+
+to show the application# https://guileless-seahorse-28285b.netlify.app/
